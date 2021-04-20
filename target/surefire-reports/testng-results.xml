@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-20T13:38:14 ART" name="tests.Tests" finished-at="2021-04-20T13:39:49 ART" duration-ms="94619">
+    <groups>
+    </groups>
+    <test started-at="2021-04-20T13:38:14 ART" name="Command line test" finished-at="2021-04-20T13:39:49 ART" duration-ms="94619">
+      <class name="tests.Tests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.Tests@49ec71f8]" started-at="2021-04-20T13:38:15 ART" name="setUp" finished-at="2021-04-20T13:38:41 ART" duration-ms="25999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="primerTest()[pri:0, instance:tests.Tests@49ec71f8]" started-at="2021-04-20T13:38:41 ART" name="primerTest" finished-at="2021-04-20T13:39:45 ART" duration-ms="63992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- primerTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.Tests@49ec71f8]" started-at="2021-04-20T13:39:45 ART" name="tearDown" finished-at="2021-04-20T13:39:49 ART" duration-ms="4498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.Tests -->
+    </test> <!-- Command line test -->
+  </suite> <!-- tests.Tests -->
+</testng-results>
